@@ -18,23 +18,21 @@ A clean, fully offline expense tracker built with **Python**, **customtkinter**,
 ---
 
 ## 🗂 Project Structure
-expense_tracker/
-├── main.py # GUI app entry point
-├── cli.py # CLI entry point
-├── config.py # Config settings
-│
-├── data/
-│ └── expenses.db # Local SQLite database
-│
-├── models/ # Database models
-├── services/ # Business logic (tracking, exporting, summaries)
-├── ui/ # customtkinter-based GUI
-├── utils/ # Charts, helpers, date functions
-│
-├── requirements.txt # Dependencies
-└── README.md #You are currently here
-
-
+    expense_tracker/
+    ├── main.py # GUI app entry point
+    ├── cli.py # CLI entry point
+    ├── config.py # Config settings
+    │
+    ├── data/
+    │ └── expenses.db # Local SQLite database
+    │
+    ├── models/ # Database models
+    ├── services/ # Business logic (tracking, exporting, summaries)
+    ├── ui/ # customtkinter-based GUI
+    ├── utils/ # Charts, helpers, date functions
+    │
+    ├── requirements.txt # Dependencies
+    └── README.md #You are currently here
 ---
 
 ### 1 Getting Started
