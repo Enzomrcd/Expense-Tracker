@@ -1,0 +1,1 @@
+#global settings and all constants

@@ -46,23 +46,23 @@ expense_tracker/
 
 ### Installation
 
-git clone https://github.com/yourusername/expense-tracker.git
-cd expense-tracker
+    git clone https://github.com/yourusername/expense-tracker.git
+    cd expense-tracker
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### GUI USAGE
-python main.py
+    python main.py
 
 ### CLI USAGE
-# Add an expense
-python cli.py add --amount 50 --category Food --note "Lunch"
+    Add an expense
+    python cli.py add --amount 50 --category Food --note "Lunch"
 
 # View monthly summary
-python cli.py summary
+    python cli.py summary
 
 # Export data
-python cli.py export --format excel
+    python cli.py export --format excel
 
 ### 🔒 Privacy & Offline-First
     This app is 100% offline.

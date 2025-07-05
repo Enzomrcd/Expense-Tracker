@@ -1,0 +1,1 @@
+#recurring table CRUD (logic part)
