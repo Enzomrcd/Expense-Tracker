@@ -1,6 +1,6 @@
 # 💸 Personal Expense Tracker (Desktop App)
 
-A clean, fully offline expense tracker built with **Python**, **customtkinter**, and **SQLite**. Track your daily spending, manage budgets, analyze where your money goes, and export your data — all from a simple desktop app that puts **privacy and usability first**.
+A clean, fully offline expense tracker built with **Python**, **customtkinter**, and **SQLite**. Track your daily spending, manage budgets, analyze where your money goes, and export your data all from a simple desktop app that puts **privacy and usability first**.
 
 ---
 
